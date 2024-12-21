@@ -1,0 +1,111 @@
+body {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .auth {
+    width: 300px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: black;
+  }
+  
+  h1 {
+    font-size: 24px;
+    color: white; /* Ensure text is visible on black background */
+    margin: 10px 0;
+    text-align: center;
+  }
+  
+  .auth-form {
+    margin: 20px 0;
+  }
+  
+  .auth-form input {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+  }
+  
+  .auth-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #1ED760;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  
+  .auth-form button:hover {
+    background-color: #45a049;
+  }
+  
+  .link {
+    color: #007BFF;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  
+  .link:hover {
+    color: #0056b3;
+  }
+  
+  .or-separator {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  
+  .separator-line {
+    flex-grow: 1;
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 0 10px;
+  }
+  
+  .separator-text {
+    font-size: 14px;
+    color: #666;
+    white-space: nowrap;
+  }
+  
+  .encore-text {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #333;
+    display: inline-block;
+    text-align: center;
+    margin: 0 8px;
+  }
+  
+  .encore-text-body-small {
+    font-size: 12px;
+    line-height: 1.5;
+    color: #555;
+  }
+  
+  .sc-fqcNSE {
+    padding: 4px 8px;
+    border-radius: 4px;
+    background-color: #f0f0f0;
+  }
+  
+  .hWnSOt {
+    font-style: italic;
+    color: #888;
+  }
+svg{
+    margin-left: 80px;
+}  
